@@ -1,0 +1,15 @@
+# Stellar TOML
+VERSION="0.1.0"
+
+# Контактная информация
+[DOCUMENTATION]
+ORG_NAME="Lex Volkov"
+ORG_URL="lexvolkov.github.io"
+ORG_DESCRIPTION="Lex Volkov Coin"
+
+# Информация о токене
+[[CURRENCIES]]
+code="LVC"
+issuer="GA4DANLFCZLINUW2ZRZY7VI4VOABN2KLNUQDP634QDSWU65ZW5MPQZIK"
+display_decimals=7
+image="https://lexvolkov.github.io/icon.png"
